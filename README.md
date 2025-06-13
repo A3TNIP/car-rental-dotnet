@@ -74,6 +74,4 @@ BEGIN
 END;
 $$;
 
-alter function get_car_list(text) owner to "A3TNIP";
-
 ```
